@@ -50,6 +50,6 @@ namespace QLKTX
             string sqlStr = "delete from Nuoc where id='" + id + "'";
             db.ThucThi(sqlStr);
         }
-//asfqwfqwfqfqwfqwfqwasdawd
+//asfqwfqwfqfqwfqwfqwasdawdffffffffffffffffffff
     }
 }
