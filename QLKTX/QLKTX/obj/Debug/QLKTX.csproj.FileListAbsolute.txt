@@ -1,0 +1,68 @@
+C:\Users\HP\source\repos\QLKTX\QLKTX\bin\Debug\QLKTX.exe.config
+C:\Users\HP\source\repos\QLKTX\QLKTX\bin\Debug\QLKTX.exe
+C:\Users\HP\source\repos\QLKTX\QLKTX\bin\Debug\QLKTX.pdb
+C:\Users\HP\source\repos\QLKTX\QLKTX\obj\Debug\QLKTX.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\QLKTX\QLKTX\obj\Debug\QLKTX.Properties.Resources.resources
+C:\Users\HP\source\repos\QLKTX\QLKTX\obj\Debug\QLKTX.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\QLKTX\QLKTX\obj\Debug\QLKTX.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\QLKTX\QLKTX\obj\Debug\QLKTX.exe
+C:\Users\HP\source\repos\QLKTX\QLKTX\obj\Debug\QLKTX.pdb
+C:\Users\HP\source\repos\QLKTX\QLKTX\obj\Debug\QLKTX.frmSinhVien.resources
+C:\Users\HP\source\repos\QLKTX\QLKTX\obj\Debug\QLKTX.frmMain.resources
+C:\Users\HP\source\repos\QLKTX\QLKTX\obj\Debug\QLKTX.frmLoaiPhong.resources
+C:\Users\HP\source\repos\QLKTX\QLKTX\obj\Debug\QLKTX.frmPhong.resources
+C:\Users\HP\source\repos\QLKTX\QLKTX\obj\Debug\QLKTX.frmXepPhong.resources
+C:\Users\HP\source\repos\QLKTX\QLKTX\obj\Debug\QLKTX.frmXepPhongChild.resources
+C:\Users\HP\source\repos\QLKTX\QLKTX\obj\Debug\QLKTX.frmDien.resources
+C:\Users\HP\source\repos\QLKTX\QLKTX\obj\Debug\QLKTX.frmNuoc.resources
+C:\Users\HP\source\repos\QLKTX\QLKTX\obj\Debug\QLKTX.frmTrangChu.resources
+C:\Users\Admin\Downloads\Bài tập lớn-20230830T165740Z-001\Bài tập lớn\QLKTX\QLKTX\bin\Debug\QLKTX.exe.config
+C:\Users\Admin\Downloads\Bài tập lớn-20230830T165740Z-001\Bài tập lớn\QLKTX\QLKTX\bin\Debug\QLKTX.exe
+C:\Users\Admin\Downloads\Bài tập lớn-20230830T165740Z-001\Bài tập lớn\QLKTX\QLKTX\bin\Debug\QLKTX.pdb
+C:\Users\Admin\Downloads\Bài tập lớn-20230830T165740Z-001\Bài tập lớn\QLKTX\QLKTX\obj\Debug\QLKTX.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Bài tập lớn-20230830T165740Z-001\Bài tập lớn\QLKTX\QLKTX\obj\Debug\QLKTX.frmDien.resources
+C:\Users\Admin\Downloads\Bài tập lớn-20230830T165740Z-001\Bài tập lớn\QLKTX\QLKTX\obj\Debug\QLKTX.frmLoaiPhong.resources
+C:\Users\Admin\Downloads\Bài tập lớn-20230830T165740Z-001\Bài tập lớn\QLKTX\QLKTX\obj\Debug\QLKTX.frmMain.resources
+C:\Users\Admin\Downloads\Bài tập lớn-20230830T165740Z-001\Bài tập lớn\QLKTX\QLKTX\obj\Debug\QLKTX.frmNuoc.resources
+C:\Users\Admin\Downloads\Bài tập lớn-20230830T165740Z-001\Bài tập lớn\QLKTX\QLKTX\obj\Debug\QLKTX.frmPhong.resources
+C:\Users\Admin\Downloads\Bài tập lớn-20230830T165740Z-001\Bài tập lớn\QLKTX\QLKTX\obj\Debug\QLKTX.frmSinhVien.resources
+C:\Users\Admin\Downloads\Bài tập lớn-20230830T165740Z-001\Bài tập lớn\QLKTX\QLKTX\obj\Debug\QLKTX.frmTrangChu.resources
+C:\Users\Admin\Downloads\Bài tập lớn-20230830T165740Z-001\Bài tập lớn\QLKTX\QLKTX\obj\Debug\QLKTX.frmXepPhong.resources
+C:\Users\Admin\Downloads\Bài tập lớn-20230830T165740Z-001\Bài tập lớn\QLKTX\QLKTX\obj\Debug\QLKTX.frmXepPhongChild.resources
+C:\Users\Admin\Downloads\Bài tập lớn-20230830T165740Z-001\Bài tập lớn\QLKTX\QLKTX\obj\Debug\QLKTX.Properties.Resources.resources
+C:\Users\Admin\Downloads\Bài tập lớn-20230830T165740Z-001\Bài tập lớn\QLKTX\QLKTX\obj\Debug\QLKTX.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Bài tập lớn-20230830T165740Z-001\Bài tập lớn\QLKTX\QLKTX\obj\Debug\QLKTX.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Bài tập lớn-20230830T165740Z-001\Bài tập lớn\QLKTX\QLKTX\obj\Debug\QLKTX.exe
+C:\Users\Admin\Downloads\Bài tập lớn-20230830T165740Z-001\Bài tập lớn\QLKTX\QLKTX\obj\Debug\QLKTX.pdb
+C:\Users\Admin\Downloads\Bài tập lớn-20230830T165740Z-001\Bài tập lớn\QLKTX\QLKTX\bin\Debug\EPPlus.dll
+C:\Users\Admin\Downloads\Bài tập lớn-20230830T165740Z-001\Bài tập lớn\QLKTX\QLKTX\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Admin\Downloads\Bài tập lớn-20230830T165740Z-001\Bài tập lớn\QLKTX\QLKTX\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Admin\Downloads\Bài tập lớn-20230830T165740Z-001\Bài tập lớn\QLKTX\QLKTX\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Admin\Downloads\Bài tập lớn-20230830T165740Z-001\Bài tập lớn\QLKTX\QLKTX\bin\Debug\EPPlus.xml
+C:\Users\Admin\Downloads\Bài tập lớn-20230830T165740Z-001\Bài tập lớn\QLKTX\QLKTX\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Admin\Downloads\Bài tập lớn-20230830T165740Z-001\Bài tập lớn\QLKTX\QLKTX\obj\Debug\QLKTX.csproj.CopyComplete
+D:\Lt win\LTWin-Nhóm 5\QLKTX\QLKTX\bin\Debug\QLKTX.exe.config
+D:\Lt win\LTWin-Nhóm 5\QLKTX\QLKTX\bin\Debug\QLKTX.exe
+D:\Lt win\LTWin-Nhóm 5\QLKTX\QLKTX\bin\Debug\QLKTX.pdb
+D:\Lt win\LTWin-Nhóm 5\QLKTX\QLKTX\bin\Debug\EPPlus.dll
+D:\Lt win\LTWin-Nhóm 5\QLKTX\QLKTX\bin\Debug\EPPlus.Interfaces.dll
+D:\Lt win\LTWin-Nhóm 5\QLKTX\QLKTX\bin\Debug\EPPlus.System.Drawing.dll
+D:\Lt win\LTWin-Nhóm 5\QLKTX\QLKTX\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Lt win\LTWin-Nhóm 5\QLKTX\QLKTX\bin\Debug\EPPlus.xml
+D:\Lt win\LTWin-Nhóm 5\QLKTX\QLKTX\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Lt win\LTWin-Nhóm 5\QLKTX\QLKTX\obj\Debug\QLKTX.csproj.AssemblyReference.cache
+D:\Lt win\LTWin-Nhóm 5\QLKTX\QLKTX\obj\Debug\QLKTX.frmDien.resources
+D:\Lt win\LTWin-Nhóm 5\QLKTX\QLKTX\obj\Debug\QLKTX.frmLoaiPhong.resources
+D:\Lt win\LTWin-Nhóm 5\QLKTX\QLKTX\obj\Debug\QLKTX.frmMain.resources
+D:\Lt win\LTWin-Nhóm 5\QLKTX\QLKTX\obj\Debug\QLKTX.frmNuoc.resources
+D:\Lt win\LTWin-Nhóm 5\QLKTX\QLKTX\obj\Debug\QLKTX.frmPhong.resources
+D:\Lt win\LTWin-Nhóm 5\QLKTX\QLKTX\obj\Debug\QLKTX.frmSinhVien.resources
+D:\Lt win\LTWin-Nhóm 5\QLKTX\QLKTX\obj\Debug\QLKTX.frmTrangChu.resources
+D:\Lt win\LTWin-Nhóm 5\QLKTX\QLKTX\obj\Debug\QLKTX.frmXepPhong.resources
+D:\Lt win\LTWin-Nhóm 5\QLKTX\QLKTX\obj\Debug\QLKTX.frmXepPhongChild.resources
+D:\Lt win\LTWin-Nhóm 5\QLKTX\QLKTX\obj\Debug\QLKTX.Properties.Resources.resources
+D:\Lt win\LTWin-Nhóm 5\QLKTX\QLKTX\obj\Debug\QLKTX.csproj.GenerateResource.cache
+D:\Lt win\LTWin-Nhóm 5\QLKTX\QLKTX\obj\Debug\QLKTX.csproj.CoreCompileInputs.cache
+D:\Lt win\LTWin-Nhóm 5\QLKTX\QLKTX\obj\Debug\QLKTX.csproj.Up2Date
+D:\Lt win\LTWin-Nhóm 5\QLKTX\QLKTX\obj\Debug\QLKTX.exe
+D:\Lt win\LTWin-Nhóm 5\QLKTX\QLKTX\obj\Debug\QLKTX.pdb

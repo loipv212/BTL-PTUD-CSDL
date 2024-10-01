@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lt win\\LTWin-Nh\u00F3m 5\\QLKTX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8504DD6-D0BD-4BE1-9517-7F6374025114}|QLKTX\\QLKTX.csproj|d:\\lt win\\ltwin-nh\u00F3m 5\\qlktx\\qlktx\\xepphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8504DD6-D0BD-4BE1-9517-7F6374025114}|QLKTX\\QLKTX.csproj|solutionrelative:qlktx\\xepphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8504DD6-D0BD-4BE1-9517-7F6374025114}|QLKTX\\QLKTX.csproj|d:\\lt win\\ltwin-nh\u00F3m 5\\qlktx\\qlktx\\dien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8504DD6-D0BD-4BE1-9517-7F6374025114}|QLKTX\\QLKTX.csproj|solutionrelative:qlktx\\dien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8504DD6-D0BD-4BE1-9517-7F6374025114}|QLKTX\\QLKTX.csproj|d:\\lt win\\ltwin-nh\u00F3m 5\\qlktx\\qlktx\\db1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8504DD6-D0BD-4BE1-9517-7F6374025114}|QLKTX\\QLKTX.csproj|solutionrelative:qlktx\\db1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8504DD6-D0BD-4BE1-9517-7F6374025114}|QLKTX\\QLKTX.csproj|d:\\lt win\\ltwin-nh\u00F3m 5\\qlktx\\qlktx\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8504DD6-D0BD-4BE1-9517-7F6374025114}|QLKTX\\QLKTX.csproj|solutionrelative:qlktx\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8504DD6-D0BD-4BE1-9517-7F6374025114}|QLKTX\\QLKTX.csproj|d:\\lt win\\ltwin-nh\u00F3m 5\\qlktx\\qlktx\\frmphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8504DD6-D0BD-4BE1-9517-7F6374025114}|QLKTX\\QLKTX.csproj|solutionrelative:qlktx\\frmphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8504DD6-D0BD-4BE1-9517-7F6374025114}|QLKTX\\QLKTX.csproj|D:\\Lt win\\LTWin-Nh\u00F3m 5\\QLKTX\\qlktx\\phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8504DD6-D0BD-4BE1-9517-7F6374025114}|QLKTX\\QLKTX.csproj|solutionrelative:qlktx\\phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8504DD6-D0BD-4BE1-9517-7F6374025114}|QLKTX\\QLKTX.csproj|D:\\Lt win\\LTWin-Nh\u00F3m 5\\QLKTX\\qlktx\\frmphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8504DD6-D0BD-4BE1-9517-7F6374025114}|QLKTX\\QLKTX.csproj|solutionrelative:qlktx\\frmphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8504DD6-D0BD-4BE1-9517-7F6374025114}|QLKTX\\QLKTX.csproj|D:\\Lt win\\LTWin-Nh\u00F3m 5\\QLKTX\\qlktx\\frmloaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8504DD6-D0BD-4BE1-9517-7F6374025114}|QLKTX\\QLKTX.csproj|solutionrelative:qlktx\\frmloaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8504DD6-D0BD-4BE1-9517-7F6374025114}|QLKTX\\QLKTX.csproj|D:\\Lt win\\LTWin-Nh\u00F3m 5\\QLKTX\\qlktx\\xepphongchild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8504DD6-D0BD-4BE1-9517-7F6374025114}|QLKTX\\QLKTX.csproj|solutionrelative:qlktx\\xepphongchild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8504DD6-D0BD-4BE1-9517-7F6374025114}|QLKTX\\QLKTX.csproj|D:\\Lt win\\LTWin-Nh\u00F3m 5\\QLKTX\\qlktx\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8504DD6-D0BD-4BE1-9517-7F6374025114}|QLKTX\\QLKTX.csproj|solutionrelative:qlktx\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XepPhong.cs",
+              "DocumentMoniker": "D:\\Lt win\\LTWin-Nh\u00F3m 5\\QLKTX\\QLKTX\\XepPhong.cs",
+              "RelativeDocumentMoniker": "QLKTX\\XepPhong.cs",
+              "ToolTip": "D:\\Lt win\\LTWin-Nh\u00F3m 5\\QLKTX\\QLKTX\\XepPhong.cs",
+              "RelativeToolTip": "QLKTX\\XepPhong.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T03:23:33.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dien.cs",
+              "DocumentMoniker": "D:\\Lt win\\LTWin-Nh\u00F3m 5\\QLKTX\\QLKTX\\Dien.cs",
+              "RelativeDocumentMoniker": "QLKTX\\Dien.cs",
+              "ToolTip": "D:\\Lt win\\LTWin-Nh\u00F3m 5\\QLKTX\\QLKTX\\Dien.cs",
+              "RelativeToolTip": "QLKTX\\Dien.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T03:23:26.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DB1.cs",
+              "DocumentMoniker": "D:\\Lt win\\LTWin-Nh\u00F3m 5\\QLKTX\\QLKTX\\DB1.cs",
+              "RelativeDocumentMoniker": "QLKTX\\DB1.cs",
+              "ToolTip": "D:\\Lt win\\LTWin-Nh\u00F3m 5\\QLKTX\\QLKTX\\DB1.cs",
+              "RelativeToolTip": "QLKTX\\DB1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T03:23:24.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\Lt win\\LTWin-Nh\u00F3m 5\\QLKTX\\QLKTX\\Database.cs",
+              "RelativeDocumentMoniker": "QLKTX\\Database.cs",
+              "ToolTip": "D:\\Lt win\\LTWin-Nh\u00F3m 5\\QLKTX\\QLKTX\\Database.cs",
+              "RelativeToolTip": "QLKTX\\Database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T03:23:21.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmPhong.cs",
+              "DocumentMoniker": "D:\\Lt win\\LTWin-Nh\u00F3m 5\\QLKTX\\QLKTX\\frmPhong.cs",
+              "RelativeDocumentMoniker": "QLKTX\\frmPhong.cs",
+              "ToolTip": "D:\\Lt win\\LTWin-Nh\u00F3m 5\\QLKTX\\QLKTX\\frmPhong.cs",
+              "RelativeToolTip": "QLKTX\\frmPhong.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAASwE4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T11:24:58.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmPhong.cs [Design]",
+              "DocumentMoniker": "D:\\Lt win\\LTWin-Nh\u00F3m 5\\QLKTX\\QLKTX\\frmPhong.cs",
+              "RelativeDocumentMoniker": "QLKTX\\frmPhong.cs",
+              "ToolTip": "D:\\Lt win\\LTWin-Nh\u00F3m 5\\QLKTX\\QLKTX\\frmPhong.cs [Design]",
+              "RelativeToolTip": "QLKTX\\frmPhong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T11:23:26.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmLoaiPhong.cs [Design]",
+              "DocumentMoniker": "D:\\Lt win\\LTWin-Nh\u00F3m 5\\QLKTX\\QLKTX\\frmLoaiPhong.cs",
+              "RelativeDocumentMoniker": "QLKTX\\frmLoaiPhong.cs",
+              "ToolTip": "D:\\Lt win\\LTWin-Nh\u00F3m 5\\QLKTX\\QLKTX\\frmLoaiPhong.cs [Design]",
+              "RelativeToolTip": "QLKTX\\frmLoaiPhong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T11:23:22.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "XepPhongChild.cs",
+              "DocumentMoniker": "D:\\Lt win\\LTWin-Nh\u00F3m 5\\QLKTX\\QLKTX\\XepPhongChild.cs",
+              "RelativeDocumentMoniker": "QLKTX\\XepPhongChild.cs",
+              "ToolTip": "D:\\Lt win\\LTWin-Nh\u00F3m 5\\QLKTX\\QLKTX\\XepPhongChild.cs",
+              "RelativeToolTip": "QLKTX\\XepPhongChild.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T11:23:03.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "D:\\Lt win\\LTWin-Nh\u00F3m 5\\QLKTX\\QLKTX\\SinhVien.cs",
+              "RelativeDocumentMoniker": "QLKTX\\SinhVien.cs",
+              "ToolTip": "D:\\Lt win\\LTWin-Nh\u00F3m 5\\QLKTX\\QLKTX\\SinhVien.cs",
+              "RelativeToolTip": "QLKTX\\SinhVien.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T11:22:56.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Phong.cs",
+              "DocumentMoniker": "D:\\Lt win\\LTWin-Nh\u00F3m 5\\QLKTX\\QLKTX\\Phong.cs",
+              "RelativeDocumentMoniker": "QLKTX\\Phong.cs",
+              "ToolTip": "D:\\Lt win\\LTWin-Nh\u00F3m 5\\QLKTX\\QLKTX\\Phong.cs",
+              "RelativeToolTip": "QLKTX\\Phong.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwDIAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T11:19:33.405Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
