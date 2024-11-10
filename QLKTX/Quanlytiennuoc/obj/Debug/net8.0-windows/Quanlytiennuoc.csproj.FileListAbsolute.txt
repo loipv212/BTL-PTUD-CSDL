@@ -1,0 +1,16 @@
+D:\Năm 3 kì 1\PTUD CSDL\Quanlytiennuoc\bin\Debug\net8.0-windows\Quanlytiennuoc.exe
+D:\Năm 3 kì 1\PTUD CSDL\Quanlytiennuoc\bin\Debug\net8.0-windows\Quanlytiennuoc.deps.json
+D:\Năm 3 kì 1\PTUD CSDL\Quanlytiennuoc\bin\Debug\net8.0-windows\Quanlytiennuoc.runtimeconfig.json
+D:\Năm 3 kì 1\PTUD CSDL\Quanlytiennuoc\bin\Debug\net8.0-windows\Quanlytiennuoc.dll
+D:\Năm 3 kì 1\PTUD CSDL\Quanlytiennuoc\bin\Debug\net8.0-windows\Quanlytiennuoc.pdb
+D:\Năm 3 kì 1\PTUD CSDL\Quanlytiennuoc\obj\Debug\net8.0-windows\Quanlytiennuoc.Form1.resources
+D:\Năm 3 kì 1\PTUD CSDL\Quanlytiennuoc\obj\Debug\net8.0-windows\Quanlytiennuoc.csproj.GenerateResource.cache
+D:\Năm 3 kì 1\PTUD CSDL\Quanlytiennuoc\obj\Debug\net8.0-windows\Quanlytiennuoc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Năm 3 kì 1\PTUD CSDL\Quanlytiennuoc\obj\Debug\net8.0-windows\Quanlytiennuoc.AssemblyInfoInputs.cache
+D:\Năm 3 kì 1\PTUD CSDL\Quanlytiennuoc\obj\Debug\net8.0-windows\Quanlytiennuoc.AssemblyInfo.cs
+D:\Năm 3 kì 1\PTUD CSDL\Quanlytiennuoc\obj\Debug\net8.0-windows\Quanlytiennuoc.csproj.CoreCompileInputs.cache
+D:\Năm 3 kì 1\PTUD CSDL\Quanlytiennuoc\obj\Debug\net8.0-windows\Quanlytiennuoc.dll
+D:\Năm 3 kì 1\PTUD CSDL\Quanlytiennuoc\obj\Debug\net8.0-windows\refint\Quanlytiennuoc.dll
+D:\Năm 3 kì 1\PTUD CSDL\Quanlytiennuoc\obj\Debug\net8.0-windows\Quanlytiennuoc.pdb
+D:\Năm 3 kì 1\PTUD CSDL\Quanlytiennuoc\obj\Debug\net8.0-windows\Quanlytiennuoc.genruntimeconfig.cache
+D:\Năm 3 kì 1\PTUD CSDL\Quanlytiennuoc\obj\Debug\net8.0-windows\ref\Quanlytiennuoc.dll
